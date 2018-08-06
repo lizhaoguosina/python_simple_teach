@@ -32,3 +32,6 @@ if bol2:
     print('test')
 else:
     print('testtest')
+'''
+之后的列表也是有这种操作的
+'''
