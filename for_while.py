@@ -29,3 +29,7 @@ print(d)
 '''
 以下为while循环部分
 '''
+cot = 1
+while cot <= 5:
+    cot +=1
+    print(cot)
