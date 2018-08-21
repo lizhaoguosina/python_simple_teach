@@ -9,11 +9,13 @@ for a0 in a:
     a0 += a0
     print(a0)
 #列表输出演示
+#对于a列表内每个元素都自加
 
 b = {'10':'q','20':'w','30':'e','40':'r'}
 for b0 in b:
     print(str(b0)+' '+str(b[b0]))
 #字典输出演示
+
 
 c = (5,6,7,8)
 for c0 in c:
